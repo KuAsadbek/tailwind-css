@@ -1,6 +1,12 @@
 # Tailwind CSS Cheat Sheet
 
 ---
+Group
+```txt
+group
+group-hover:bg-[var(--side-bg-icon-hover)]
+```
+
 
 ## 🔹 Цвета (Colors)
 
