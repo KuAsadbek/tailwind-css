@@ -98,6 +98,7 @@ shadow-lg
 
 🔹 Hover / Focus / Active
 ```txt
+cursor-pointer
 hover:bg-blue-500
 hover:text-white
 focus:ring-2
