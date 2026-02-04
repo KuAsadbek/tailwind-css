@@ -28,7 +28,7 @@ text-blue-500
 text-red-500
 ```
 
-###🔹 Отступы (Padding / Margin)
+##🔹 Отступы (Padding / Margin)
 ```txt
 Padding
 p-4     → padding
